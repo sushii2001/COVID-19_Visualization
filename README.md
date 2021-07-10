@@ -28,3 +28,7 @@ Big thanks to organizations around the world, this notebook is only possible bec
 ## Demostrate linear regression
 - The trend if the cases increase linearly 
 ![](image_source/cum-case_world_lr.png)
+
+## Multiple category plot
+- Plotting for different country cases
+![](image_source/cum-case_world.png)
