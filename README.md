@@ -13,10 +13,14 @@ Introduction:
 
 Big thanks to organizations around the world, this notebook is only possible because the data collected by them. Notably, the Johns Hopkins University Center for Systems Science and Engineering created a <a href="https://github.com/RamiKrispin/coronavirus">publicly available data repository</a> to consolidate this data from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.<em> Please note that the COVID-19 information and data are still constantly being updated. This project's data is obtained on March 17, 2020, therefore it should not be regarded the most up-to-date data available.</em>
 
-# Sneak peak:
+# Sneak-peak:
 - some of the plots produced in this notebook
 - the codes can be found in the notebook
 
 ## China vs. World
 - Accummulation of COVID-19 cases trend between China and the world
 ![](image_source/cum-case_china-vs-world.png)
+
+## Annotation of events
+- Events that occur during the pandemic
+![](image_source/cum-case_china_event.png)
