@@ -24,3 +24,7 @@ Big thanks to organizations around the world, this notebook is only possible bec
 ## Annotation of events
 - Events that occur during the pandemic
 ![](image_source/cum-case_china_event.png)
+
+## Demostrate linear regression
+- The trend if the cases increase linearly 
+![](image_source/cum-case_world_lr.png)
