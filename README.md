@@ -15,4 +15,4 @@ Big thanks to organizations around the world, this notebook is only possible bec
 
 # Sneak peak:
 ## China vs. World
-![](image_source/cum-case_china-vs-world.jpg)
+![](image_source/cum-case_china-vs-world.png)
